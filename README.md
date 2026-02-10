@@ -415,6 +415,6 @@ Questions or suggestions? Open an issue!
 
 ---
 
-**Made with ❤️ using FastAPI, Redis, and Machine Learning**
+**Made using FastAPI, Redis, and Machine Learning**
 
 ⭐ Star this repo if you find it useful!
