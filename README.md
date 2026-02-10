@@ -1,4 +1,4 @@
-# 🚦 Intelligent Rate Limiter
+# 🚦 Traffic-Sentinel
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.109+-green.svg)
